@@ -43,4 +43,7 @@ How to start the server :
 ```bash
 lancer_serveur_vsh.sh <PORT>
 ```
+<<<<<<< HEAD
 
+=======
+>>>>>>> ae4518e13375b849803afe9e94e775ec67a099f6
