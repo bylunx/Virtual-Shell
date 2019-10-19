@@ -1,6 +1,6 @@
 # Virtual-Shell
 
-Virtual-Shell is a archive server tool (bash). The server must contains some archives (the format is a home made one).
+Virtual-Shell is an archive server tool (bash). The server must contains some archives (the format is a home made one).
 What you can do :
 
 + Get the archive list on the server
